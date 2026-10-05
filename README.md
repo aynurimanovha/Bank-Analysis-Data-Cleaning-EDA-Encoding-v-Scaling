@@ -44,24 +44,7 @@ DATA_PATH = "bank.csv"
 
 > **Qeyd:** Əgər dataset GitHub repository-sinə əlavə edilməyibsə, notebook-u işlətməzdən əvvəl `bank.csv` faylını layihə qovluğuna yerləşdirmək lazımdır.
 
----
 
-## Layihənin strukturu
-
-Tövsiyə olunan repository strukturu:
-
-```text
-bank-marketing-analysis/
-│
-├── bank_analysis.ipynb
-├── bank.csv
-├── bank_cleaned.csv
-├── bank_train_ready.csv
-├── bank_test_ready.csv
-└── README.md
-```
-
-Yaradılan CSV faylları preprocessing pipeline tamamlandıqdan sonra notebook tərəfindən avtomatik yaradılır.
 
 ---
 
